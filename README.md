@@ -1,2 +1,2 @@
-# ESP--Java--Demineur 
- creer par DAMALA EL Anewar et Aminata Lo Mbaye
+# ESP Java Demineur 
+   Projet en JAVA de L'ecole Polytechnique Cheick Anta Diop
